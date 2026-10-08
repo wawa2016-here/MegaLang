@@ -25,4 +25,4 @@ Speek Done!
 ```
 
 DON'T DO EVIL (check the bottom of the licence)
-and NO malware of course. (I don't think it it's state is possible)
+and NO malware of course. (I don't think in it's state is possible)
